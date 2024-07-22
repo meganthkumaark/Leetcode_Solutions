@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3429-special-array-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
