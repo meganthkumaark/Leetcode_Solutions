@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Trie
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0018-4sum) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Backtracking
 |  |
 | ------- |
