@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3429-special-array-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
