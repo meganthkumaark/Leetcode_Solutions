@@ -1,27 +1,23 @@
 class Solution {
-    unordered_map<int, vector<vector<int>>> dp;
-    int solve(int k, int i, int jump, bool can) {
-        if (i > k + 5)
-            return 0;
-
-        if(jump > 31)
-            return 0;
-
-        if(dp.count(i) && dp[i][jump][can] != -1)
-            return dp[i][jump][can];
-
-        int ans = (i == k);
-        if (can)
-            ans += solve(k, i - 1, jump, 0);
-        if (i + (1 << jump) <= k + 1)
-            ans += solve(k, i + (1 << jump), jump + 1, 1);
-
-        dp[i].resize(32, vector<int>(2, -1));
-
-        return dp[i][jump][can] = ans;
-    }
 public:
+    long long nCr(int n, int r) {
+    r = max(r,n - r); 
+    long long ans = 1;
+
+    for(int i = 1; i <= r; i++) {
+        ans *= (n - r + i);
+        ans /= i;
+    }
+    return ans;
+}
     int waysToReachStair(int k) {
-        return solve(k, 1, 0, 1);
-    } 
+        if(k==0 || k==4) return 2;
+        if(k==1 || k==2) return 4;
+        int powerOf2 = ceil(log2(k));
+        long long num = pow(2, powerOf2);
+        long long r = num-k;
+        if(r<0 || r>powerOf2+1)
+            return 0;
+        return nCr(powerOf2+1, r);
+    }
 };
