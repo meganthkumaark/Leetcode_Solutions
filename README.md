@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
