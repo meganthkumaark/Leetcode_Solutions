@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3429-special-array-i) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3469-maximum-height-of-a-triangle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Segment Tree
+|  |
+| ------- |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 <!---LeetCode Topics End-->
