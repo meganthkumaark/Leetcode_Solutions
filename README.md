@@ -205,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3469-maximum-height-of-a-triangle) |
+## Tree
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
