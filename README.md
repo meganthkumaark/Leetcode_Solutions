@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3468-find-the-encrypted-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Trie
 |  |
 | ------- |
