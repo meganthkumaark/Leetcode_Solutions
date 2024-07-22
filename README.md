@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
+## Counting
+|  |
+| ------- |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 <!---LeetCode Topics End-->
