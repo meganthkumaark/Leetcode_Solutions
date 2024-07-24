@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0018-4sum) |
+| [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
