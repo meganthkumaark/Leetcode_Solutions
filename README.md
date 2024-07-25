@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
