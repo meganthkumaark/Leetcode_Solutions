@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
