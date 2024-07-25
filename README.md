@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Divide and Conquer
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Prefix Sum
