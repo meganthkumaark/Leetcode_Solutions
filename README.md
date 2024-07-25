@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
