@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
