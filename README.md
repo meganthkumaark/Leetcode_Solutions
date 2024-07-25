@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Prefix Sum
 |  |
