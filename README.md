@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
