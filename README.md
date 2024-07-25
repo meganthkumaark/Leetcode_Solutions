@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
