@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
