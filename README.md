@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
