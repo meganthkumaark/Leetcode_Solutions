@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Segment Tree
 |  |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
