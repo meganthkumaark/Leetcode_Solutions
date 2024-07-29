@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
