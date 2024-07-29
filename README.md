@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -544,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
