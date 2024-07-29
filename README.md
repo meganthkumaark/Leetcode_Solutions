@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0816-design-hashset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Heap (Priority Queue)
 |  |
