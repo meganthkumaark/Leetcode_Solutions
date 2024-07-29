@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
