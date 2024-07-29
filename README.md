@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Heap (Priority Queue)
 |  |
@@ -405,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
