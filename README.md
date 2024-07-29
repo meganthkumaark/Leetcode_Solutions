@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+| [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Divide and Conquer
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
