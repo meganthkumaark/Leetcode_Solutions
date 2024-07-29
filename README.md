@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
+| [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
+| [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
