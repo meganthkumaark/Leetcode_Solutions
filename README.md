@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Divide and Conquer
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
