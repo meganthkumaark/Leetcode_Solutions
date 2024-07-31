@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1039-find-the-town-judge) |
+| [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
