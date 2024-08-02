@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
 | ------- |
