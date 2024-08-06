@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3468-find-the-encrypted-string) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Backtracking
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Memoization
 |  |
