@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
+| [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0816-design-hashset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Prefix Sum
