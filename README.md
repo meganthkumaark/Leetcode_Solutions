@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
+| [0890-lemonade-change](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
