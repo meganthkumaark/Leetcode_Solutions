@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
+| [0624-maximum-distance-in-arrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0624-maximum-distance-in-arrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
 | [0853-most-profit-assigning-work](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0890-lemonade-change) |
