@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
