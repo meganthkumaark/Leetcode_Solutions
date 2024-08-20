@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3427-special-array-ii) |
 ## Counting
@@ -618,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
