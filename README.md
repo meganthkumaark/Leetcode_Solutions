@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0330-patching-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3469-maximum-height-of-a-triangle](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 ## Tree
 |  |
@@ -626,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
