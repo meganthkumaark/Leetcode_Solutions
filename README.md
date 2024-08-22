@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0981-delete-columns-to-make-sorted](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
