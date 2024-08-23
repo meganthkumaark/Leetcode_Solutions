@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0897-prime-palindrome) |
 | [1240-stone-game-ii](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
+| [1279-prime-arrangements](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1279-prime-arrangements) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## String
