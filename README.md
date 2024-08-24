@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0664-strange-printer) |
