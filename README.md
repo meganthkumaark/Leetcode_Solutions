@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
