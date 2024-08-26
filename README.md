@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Heap (Priority Queue)
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0770-couples-holding-hands](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0770-couples-holding-hands) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/meganthkumaark/Leetcode_Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
