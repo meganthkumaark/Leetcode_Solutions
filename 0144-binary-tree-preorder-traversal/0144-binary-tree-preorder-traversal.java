@@ -13,37 +13,27 @@
  *     }
  * }
  */
-class Solution 
-{
-    public List<Integer> preorderTraversal(TreeNode root) 
-    {
-        //expection -> return pre order of the in a list <integer>
-        if(root == null)
-        {
-            return new ArrayList<>();
+class Solution {
+    public List<Integer> preorderTraversal(TreeNode root) {
+        //create a bag
+        List<Integer> bag = new ArrayList<>();
+        fun(root,bag);
+        return bag;
+    }
+
+    public void fun(TreeNode root, List<Integer> bag){
+        //base case
+        if(root == null){
+            return ;
         }
 
-        //faith -> grt thr pre order of list and return 
-        List<Integer> lst = preorderTraversal(root.left);
-        List<Integer> rst = preorderTraversal(root.right);
+        //first add the root
+        bag.add(root.val);
+         
+         //pass the bag to lst
+         fun(root.left,bag);
 
-        //create the pre order of actual tree
-        List<Integer> ans = new ArrayList<>();
-
-        ans.add(root.val); // first add the node
-
-        //thn add lst
-        for(int ele : lst)
-        {
-            ans.add(ele);
-        }
-
-        //then add rst
-        for(int ele : rst)
-        {
-            ans.add(ele);
-        }
-        
-        return ans;
+         // once done now pass the bag to rst
+         fun(root.right,bag);
     }
 }
